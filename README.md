@@ -2,4 +2,5 @@
 
 Your Body Police Department - School assignment.
 
-https://annichenwe.github.io/Y.B.P.D/
+Link [to the game](https://annichenwe.github.io/Y.B.P.D/ "Title").
+
